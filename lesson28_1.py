@@ -8,5 +8,7 @@ while True:
     sum+=product
 print(sum)
 
+#коментарий
+
     
     
